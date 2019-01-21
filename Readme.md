@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Аня Карандашова](https://up.htmlacademy.ru/htmlcss/24/user/976773).
-* Наставник: `Дмитрий Батманов (https://htmlacademy.ru/profile/id10964)`.
+* Наставник: [Дмитрий Батманов](https://htmlacademy.ru/profile/id10964).
 
 ---
 
